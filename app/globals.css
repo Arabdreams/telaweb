@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("../assets/css/style.css");
+
+html {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    background: transparent;
+    font-weight: normal;
+    text-decoration: none;
+    outline: none;
+    box-sizing: border-box;
+    font-family: "SF UI Display Light";
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+body {
+    font-family: "SF UI Display Light";
+    color: #000000;
+    background-color: #ffffff;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+.wrapper {
+    max-width: 1400px;
+    margin: 0 auto;
+    width: 85%;
+}
+
+span {
+    display: inline-block;
+}
+
+.thumb {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+li {
+    list-style: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+.flex {
+    display: flex;
+}
+.align-center {
+    align-items: center;
+}
+.justify-center {
+    justify-content: center;
+}
+.space-between {
+    justify-content: space-between;
+}
+.center-align {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+.no-scroll {
+    overflow: hidden;
+    height: 100vh;
+}
