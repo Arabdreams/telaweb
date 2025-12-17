@@ -1,7 +1,12 @@
 'use client';
-export const dynamic = 'force-dynamic';
 
-// ... rest of your existing code stays the same
+export const dynamic = 'force-dynamic';
+export const dynamicParams = true;
+export const revalidate = 0;
+export const fetchCache = 'force-no-store';
+export const runtime = 'nodejs';
+export const preferredRegion = 'auto';
+
 import ContactUs from "@/screens/ContactUs";
 
 const page = () => {
