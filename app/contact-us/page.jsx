@@ -1,3 +1,5 @@
+'use client';
+
 import ContactUs from "@/screens/ContactUs";
 
 const page = () => {
