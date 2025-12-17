@@ -1,8 +1,13 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "export", // <-- enables full static export
+  output: "export", // static export
+  reactStrictMode: true,
+  experimental: {
+    appDir: true,
+  },
   images: {
     domains: ["tela-assets.s3.me-south-1.amazonaws.com"],
+    unoptimized: true // <-- DISABLE Image Optimization for static export
   },
   compiler: {
     styledComponents: {
@@ -12,10 +17,6 @@ const nextConfig = {
       cssProp: true,
       minify: true,
     },
-  },
-  reactStrictMode: true,
-  experimental: {
-    appDir: true,
   },
 };
 
