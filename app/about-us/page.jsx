@@ -33,7 +33,7 @@ const Page = () => {
                 </div>
                 <div className="image-container my-5 sm:my-10">
                     <Image
-                        src="https://tela-assets.s3.me-south-1.amazonaws.com/images/about-us/about-us-hero.png"
+                        src="https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/about-us/about-us-hero.png"
                         alt="about us hero image"
                         width={700}
                         height={300}
