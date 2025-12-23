@@ -9,22 +9,22 @@ const Collaboration = () => {
 
     const content = [
         {
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/landing-page/pilgrim1.jpg",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/landing-page/pilgrim1.jpg",
             content: "Pilgrims of the Republic of Uzbekistan",
             arabicContent: "حجاج جمهورية أوزبكستان",
         },
         {
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/landing-page/pilgrim2-fotor.png",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/landing-page/pilgrim2-fotor.png",
             content: "Pilgrims of the Republic of Azerbaijan",
             arabicContent: "حجاج جمهورية أذربيجان",
         },
         {
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/landing-page/pilgrim3.jpg",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/landing-page/pilgrim3.jpg",
             content: "Pilgrims of the Republic of Turkmenistan",
             arabicContent: "حجاج جمهورية تركمانستان",
         },
         {
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/landing-page/pilgrim4-fotor.png",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/landing-page/pilgrim4-fotor.png",
             content: "Pilgrims of the Republic of Comoros",
             arabicContent: "حجاج اتحاد جزر القمر",
         },
