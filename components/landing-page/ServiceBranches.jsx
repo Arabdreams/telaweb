@@ -10,7 +10,7 @@ const ServiceBranches = () => {
 
     const serviceData = [
         {
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/landing-page/foodfoto.png",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/landing-page/foodfoto.png",
             name: "Tela Catering Services, Batha Quraysh, Makkah",
             arabicName: "تيلا لخدمات التموين، بطحاء قريش، مكة المكرمة",
             area:"Area: 1,500 square meters",
@@ -20,7 +20,7 @@ const ServiceBranches = () => {
 
         },
         {
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/landing-page/catering3-fotor.png",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/landing-page/catering3-fotor.png",
             name: "Al-Wisam Al-Madani Catering Services, Batha Quraysh, Makkah",
             arabicName: "خدمات التموين الوسام المدني، بطحاء قريش، مكة المكرمة",
             area:"Area: 650 square meters",
@@ -29,7 +29,7 @@ const ServiceBranches = () => {
             arabicCapacity:"الطاقة الاستيعابية: 45,000 وجبة (تشمل الإفطار والغداء والعشاء)",
         },
         {
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/landing-page/makkah-fotor.png",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/landing-page/makkah-fotor.png",
             name: "Al-Amin Catering Services, Batha Quraysh, Makkah",
             arabicName: "خدمات التموين الأمين، بطحاء قريش، مكة المكرمة",
             area:"Area: 750 square meters",
@@ -38,7 +38,7 @@ const ServiceBranches = () => {
             arabicCapacity:"الطاقة الاستيعابية: 45,000 وجبة (تشمل الإفطار والغداء والعشاء)",
         },
         {
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/landing-page/madinah-fotor.png",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/landing-page/madinah-fotor.png",
             name: "Tela Catering Services in King Fahd District, Madinah",
             arabicName: "تيلا لخدمات التموين في حي الملك فهد، المدينة المنورة",
             area:"Area: 1,600 square meters",
