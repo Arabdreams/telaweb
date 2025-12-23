@@ -9,7 +9,7 @@ const Services = () => {
             title: "Catering",
             description:
                 "Enjoy our finest and most vibrant journey of top-class catering service, creating incredible memories and embracing the sense of taste.",
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/landing-page/service-02.png",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/landing-page/service-02.png",
             tags: [
                 "Culinary Expertise",
                 "Unparalleled Service",
@@ -28,7 +28,7 @@ const Services = () => {
             title: "Labour Contract",
             description:
                 "We specialize in connecting businesses with a diverse pool of talented and experienced professionals across various trades.",
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/landing-page/service-01.png",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/landing-page/service-01.png",
             tags: [
                 "Extensive Network",
                 "Streamlined Process",
