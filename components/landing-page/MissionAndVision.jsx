@@ -90,7 +90,7 @@ const MissionAndVision = () => {
                         </p>
                         <div className="image-container">
                             <Image
-                                src="https://tela-assets.s3.me-south-1.amazonaws.com/images/landing-page/vision.png"
+                                src="https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/landing-page/vision.png"
                                 alt="vision"
                                 className="rounded-lg"
                                 width={600}
@@ -119,7 +119,7 @@ const MissionAndVision = () => {
                         </p>
                         <div className="image-container">
                             <Image
-                                src="https://tela-assets.s3.me-south-1.amazonaws.com/images/landing-page/mission.png"
+                                src="https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/landing-page/mission.png"
                                 alt="mission"
                                 className="rounded-lg"
                                 width={600}
