@@ -2,7 +2,9 @@
 const nextConfig = {
   output: 'standalone',
   images: {
-    domains: ['tela-assets.s3.me-south-1.amazonaws.com'],
+    domains: [
+      'raw.githubusercontent.com'
+    ],
   },
   experimental: {
     serverActions: {
