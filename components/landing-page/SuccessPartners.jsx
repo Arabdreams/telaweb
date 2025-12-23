@@ -9,8 +9,8 @@ const SuccessPartners = () => {
     const { isArabic } = useLanguage((state) => state);
 
     const partnerImages = [
-        "https://tela-assets.s3.me-south-1.amazonaws.com/images/landing-page/partner-01.png",
-        "https://tela-assets.s3.me-south-1.amazonaws.com/images/landing-page/partner-02.png",
+        "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/landing-page/partner-01.png",
+        "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/landing-page/partner-02.png",
     ];
     return (
         <section className="p-[50px_0] bg-[#FAF8F5] lg:p-[100px_0]">
