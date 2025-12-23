@@ -8,7 +8,7 @@ import React from "react";
 const Page = () => {
     const jobConsulting = [
         {
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/services/service-1-1.png",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/services/service-1-1.png",
             title: "Extensive Network",
             description:
                 "We have a vast database of pre-vetted skilled laborers, ensuring you have access to the right candidate for the job.",
@@ -17,7 +17,7 @@ const Page = () => {
                 "لدينا قاعدة بيانات واسعة من العمال المهرة الذين تم فحصهم مسبقًا، مما يضمن حصولك على المرشح المناسب للوظيفة.",
         },
         {
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/services/service-1-2.png",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/services/service-1-2.png",
             title: "Tailored Solutions",
             description:
                 "Following a detailed process, we build a keen understanding of your needs and project requirements to match you with the most qualified candidates.",
@@ -26,7 +26,7 @@ const Page = () => {
                 "بعد عملية تفصيلية، نقوم ببناء فهم عميق لاحتياجاتك ومتطلبات مشروعك لنطابقك مع المرشحين الأكثر تأهيلاً.",
         },
         {
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/services/service-1-3.png",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/services/service-1-3.png",
             title: "Cost-Effectiveness",
             description:
                 "Our services are cost-effective, eliminating the overhead costs associated with in-house recruitment efforts.",
@@ -35,7 +35,7 @@ const Page = () => {
                 "خدماتنا فعالة من حيث التكلفة، مما يلغي التكاليف العامة المرتبطة بجهود التوظيف الداخلية.",
         },
         {
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/services/service-1-3.png",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/services/service-1-3.png",
             title: "Streamlined Process",
             description:
                 "Say goodbye to the hassle of recruiting and screening candidates. We handle the entire process, saving you valuable time and resources.",
@@ -46,7 +46,7 @@ const Page = () => {
     ];
     const cateringAndFood = [
         {
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/services/service-2-1.png",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/services/service-2-1.png",
             title: "Culinary Expertise",
             description:
                 "A team of passionate chefs, with years of experience, creates exquisite dishes from a diverse range of cuisines. Whether you crave classic elegance or innovative creations, we can create the wonder and taste you crave.",
@@ -55,7 +55,7 @@ const Page = () => {
                 "يقوم فريق من الطهاة المتحمسين، الذين يتمتعون بسنوات من الخبرة، بإعداد أطباق رائعة من مجموعة متنوعة من المأكولات. سواء كنت تتوق إلى الأناقة الكلاسيكية أو الإبداعات المبتكرة، يمكننا أن نصنع العجائب والذوق الذي تتوق إليه.",
         },
         {
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/services/service-2-2.png",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/services/service-2-2.png",
             title: "Unparalleled Service",
             description:
                 "Our dedicated planners work tirelessly to understand your vision and ensure every detail is flawlessly executed. From menu planning to service, we handle everything professionally and focus on exceeding your expectations.",
@@ -64,7 +64,7 @@ const Page = () => {
                 "يعمل مخططونا المتفانون بلا كلل لفهم رؤيتك والتأكد من تنفيذ كل التفاصيل بشكل لا تشوبه شائبة. بدءًا من تخطيط القائمة ووصولاً إلى الخدمة، فإننا نتعامل مع كل شيء بشكل احترافي ونركز على تجاوز توقعاتك.",
         },
         {
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/services/service-2-3.png",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/services/service-2-3.png",
             title: "Customizable Packages",
             description:
                 "Be convenient, there are a variety of catering packages to suit your event size, budget, and theme. Whether it's an intimate gathering or a grand celebration, we can create a personalized catering experience that fits your needs",
@@ -73,7 +73,7 @@ const Page = () => {
                 "كن مريحًا، هناك مجموعة متنوعة من عروض تقديم الطعام التي تناسب حجم الحدث الخاص بك وميزانيتك وموضوعه. سواء كان ذلك تجمعًا حميمًا أو احتفالًا كبيرًا، يمكننا إنشاء تجربة تقديم طعام مخصصة تناسب احتياجاتك",
         },
         {
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/services/service-2-1.png",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/services/service-2-1.png",
             title: "Fresh, High-Quality Ingredients",
             description:
                 "We believe that creating great food starts with the quality of the ingredients. We use only the freshest, locally sourced ingredients to create dishes that are bursting with flavor and quality. Rest assured, there are no compromises on quality",
@@ -82,7 +82,7 @@ const Page = () => {
                 "نحن نؤمن بأن صنع طعام رائع يبدأ بجودة المكونات. نحن نستخدم فقط المكونات الطازجة من مصادر محلية لإعداد أطباق مليئة بالنكهة والجودة. كن مطمئنًا، لا يوجد أي تنازلات بشأن الجودة",
         },
         {
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/services/service-2-2.png",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/services/service-2-2.png",
             title: "Elegant Presentation",
             description:
                 "Food is not just for taste but sometimes it is an art form too. We understand that presentation is important just as much as taste. Our team creates visually stunning displays that add a touch of sophistication and elegance to your event.",
@@ -91,7 +91,7 @@ const Page = () => {
                 "الطعام ليس للتذوق فحسب، بل في بعض الأحيان يكون شكلاً من أشكال الفن أيضًا. نحن نفهم أن العرض مهم بقدر أهمية الذوق. يقوم فريقنا بإنشاء عروض مذهلة بصريًا تضيف لمسة من الرقي والأناقة إلى الحدث الخاص بك.",
         },
         {
-            image: "https://tela-assets.s3.me-south-1.amazonaws.com/images/services/service-2-3.png",
+            image: "https://raw.githubusercontent.com/Arabdreams/telaweb/main/s3/services/service-2-3.png",
             title: "Events We Serve",
             description:
                 "Including Corporate Catering, Social Gathering, Holiday Parties, and Wedding Events, we cater to a variety of events with the utmost care. Enhancing the experience, our menu will make sure that it spreads a cheer to your guests.",
